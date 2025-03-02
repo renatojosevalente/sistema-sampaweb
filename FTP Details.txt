@@ -1,15 +1,1 @@
 
-
-FTP Details for if0_38177404
-
-FTP Hostname:
-ftpupload.net
-
-FTP Username:
-if0_38177404
-
-FTP Password;
-46rjvx74nb2
-
-FTP Port (optional):
-21
